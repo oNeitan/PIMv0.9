@@ -1,0 +1,36 @@
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\Banco de Dados\bin\Debug\net6.0\BancodeDados.deps.json
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\Banco de Dados\bin\Debug\net6.0\BancodeDados.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\Banco de Dados\bin\Debug\net6.0\BancodeDados.pdb
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\Banco de Dados\obj\Debug\net6.0\BancodeDados.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\Banco de Dados\obj\Debug\net6.0\BancodeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\Banco de Dados\obj\Debug\net6.0\BancodeDados.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\Banco de Dados\obj\Debug\net6.0\BancodeDados.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\Banco de Dados\obj\Debug\net6.0\BancodeDados.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\Banco de Dados\obj\Debug\net6.0\BancodeDados.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\Banco de Dados\obj\Debug\net6.0\refint\BancodeDados.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\Banco de Dados\obj\Debug\net6.0\BancodeDados.pdb
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\Banco de Dados\obj\Debug\net6.0\ref\BancodeDados.dll
+H:\projetos\visual studio\PimNatan\Banco de Dados\bin\Debug\net6.0\BancodeDados.deps.json
+H:\projetos\visual studio\PimNatan\Banco de Dados\bin\Debug\net6.0\BancodeDados.dll
+H:\projetos\visual studio\PimNatan\Banco de Dados\bin\Debug\net6.0\BancodeDados.pdb
+H:\projetos\visual studio\PimNatan\Banco de Dados\obj\Debug\net6.0\BancodeDados.csproj.AssemblyReference.cache
+H:\projetos\visual studio\PimNatan\Banco de Dados\obj\Debug\net6.0\BancodeDados.GeneratedMSBuildEditorConfig.editorconfig
+H:\projetos\visual studio\PimNatan\Banco de Dados\obj\Debug\net6.0\BancodeDados.AssemblyInfoInputs.cache
+H:\projetos\visual studio\PimNatan\Banco de Dados\obj\Debug\net6.0\BancodeDados.AssemblyInfo.cs
+H:\projetos\visual studio\PimNatan\Banco de Dados\obj\Debug\net6.0\BancodeDados.csproj.CoreCompileInputs.cache
+H:\projetos\visual studio\PimNatan\Banco de Dados\obj\Debug\net6.0\BancodeDados.dll
+H:\projetos\visual studio\PimNatan\Banco de Dados\obj\Debug\net6.0\refint\BancodeDados.dll
+H:\projetos\visual studio\PimNatan\Banco de Dados\obj\Debug\net6.0\BancodeDados.pdb
+H:\projetos\visual studio\PimNatan\Banco de Dados\obj\Debug\net6.0\ref\BancodeDados.dll
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\Banco de Dados\bin\Debug\net6.0\BancodeDados.deps.json
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\Banco de Dados\bin\Debug\net6.0\BancodeDados.dll
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\Banco de Dados\bin\Debug\net6.0\BancodeDados.pdb
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\Banco de Dados\obj\Debug\net6.0\BancodeDados.csproj.AssemblyReference.cache
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\Banco de Dados\obj\Debug\net6.0\BancodeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\Banco de Dados\obj\Debug\net6.0\BancodeDados.AssemblyInfoInputs.cache
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\Banco de Dados\obj\Debug\net6.0\BancodeDados.AssemblyInfo.cs
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\Banco de Dados\obj\Debug\net6.0\BancodeDados.csproj.CoreCompileInputs.cache
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\Banco de Dados\obj\Debug\net6.0\BancodeDados.dll
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\Banco de Dados\obj\Debug\net6.0\refint\BancodeDados.dll
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\Banco de Dados\obj\Debug\net6.0\BancodeDados.pdb
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\Banco de Dados\obj\Debug\net6.0\ref\BancodeDados.dll

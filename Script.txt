@@ -1,0 +1,28 @@
+USE [LIFETIME]
+GO
+
+/****** Object:  Table [dbo].[Cliente]    Script Date: 24/11/2022 00:51:46 ******/
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Cliente]') AND type in (N'U'))
+DROP TABLE [dbo].[Cliente]
+GO
+
+/****** Object:  Table [dbo].[Cliente]    Script Date: 24/11/2022 00:51:46 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Cliente](
+	[IDCliente] [int] IDENTITY(1,1) NOT NULL,
+	[Nome] [nchar](60) NULL,
+	[CPF] [nchar](20) NULL,
+	[Endereco] [nchar](60) NULL,
+	[CEP] [nchar](60) NULL,
+	[Bairro] [nchar](60) NULL,
+	[Celular] [nchar](60) NULL,
+	[Email] [nchar](60) NULL,
+	[Sexo] [nchar](20) NULL
+) ON [PRIMARY]
+GO
+

@@ -1,0 +1,17 @@
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\CadClientes.exe
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\CadClientes.deps.json
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\CadClientes.runtimeconfig.json
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\CadClientes.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\CadClientes.pdb
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\CadClientes.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\CadClientes.Form1.resources
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\CadClientes.csproj.GenerateResource.cache
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\CadClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\CadClientes.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\CadClientes.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\CadClientes.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\CadClientes.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\refint\CadClientes.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\CadClientes.pdb
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\CadClientes.genruntimeconfig.cache
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\ref\CadClientes.dll

@@ -1,0 +1,86 @@
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\View.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\View.csproj.GenerateResource.cache
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\View.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\View.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\View.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\View.exe
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\View.deps.json
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\View.runtimeconfig.json
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\View.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\View.pdb
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\BancodeDados.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\bin\Debug\net6.0-windows\BancodeDados.pdb
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\View.csproj.CopyComplete
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\View.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\refint\View.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\View.pdb
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\View.genruntimeconfig.cache
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\ref\View.dll
+C:\Users\natan\OneDrive\Documentos\Desenvolvedor\CadClientes\CadClientes\obj\Debug\net6.0-windows\CadClientes.CadCliente.resources
+H:\projetos\visual studio\PimNatan\CadClientes\bin\Debug\net6.0-windows\View.exe
+H:\projetos\visual studio\PimNatan\CadClientes\bin\Debug\net6.0-windows\View.deps.json
+H:\projetos\visual studio\PimNatan\CadClientes\bin\Debug\net6.0-windows\View.runtimeconfig.json
+H:\projetos\visual studio\PimNatan\CadClientes\bin\Debug\net6.0-windows\View.dll
+H:\projetos\visual studio\PimNatan\CadClientes\bin\Debug\net6.0-windows\View.pdb
+H:\projetos\visual studio\PimNatan\CadClientes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\projetos\visual studio\PimNatan\CadClientes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\projetos\visual studio\PimNatan\CadClientes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\projetos\visual studio\PimNatan\CadClientes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\projetos\visual studio\PimNatan\CadClientes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\projetos\visual studio\PimNatan\CadClientes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\projetos\visual studio\PimNatan\CadClientes\bin\Debug\net6.0-windows\BancodeDados.dll
+H:\projetos\visual studio\PimNatan\CadClientes\bin\Debug\net6.0-windows\BancodeDados.pdb
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\View.csproj.AssemblyReference.cache
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\CadClientes.CadCliente.resources
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\View.csproj.GenerateResource.cache
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\View.AssemblyInfoInputs.cache
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\View.AssemblyInfo.cs
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\View.csproj.CoreCompileInputs.cache
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\View.csproj.CopyComplete
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\View.dll
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\refint\View.dll
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\View.pdb
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\View.genruntimeconfig.cache
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\ref\View.dll
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\View.FormMenu.resources
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\View.Login.resources
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\View.Properties.Resources.resources
+H:\projetos\visual studio\PimNatan\CadClientes\obj\Debug\net6.0-windows\View.CadFuncionario.resources
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\bin\Debug\net6.0-windows\View.exe
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\bin\Debug\net6.0-windows\View.deps.json
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\bin\Debug\net6.0-windows\View.runtimeconfig.json
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\bin\Debug\net6.0-windows\View.dll
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\bin\Debug\net6.0-windows\View.pdb
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\bin\Debug\net6.0-windows\BancodeDados.dll
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\bin\Debug\net6.0-windows\BancodeDados.pdb
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\View.csproj.AssemblyReference.cache
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\CadClientes.CadCliente.resources
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\View.CadFuncionario.resources
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\View.FormMenu.resources
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\View.Login.resources
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\View.Properties.Resources.resources
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\View.csproj.GenerateResource.cache
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\View.AssemblyInfoInputs.cache
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\View.AssemblyInfo.cs
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\View.csproj.CoreCompileInputs.cache
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\View.csproj.CopyComplete
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\View.dll
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\refint\View.dll
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\View.pdb
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\View.genruntimeconfig.cache
+C:\Users\natan\Downloads\Cadastro-Clientes-main\Cadastro-Clientes-main\CadClientes\obj\Debug\net6.0-windows\ref\View.dll
